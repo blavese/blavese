@@ -54,10 +54,6 @@ guest@blavese:~$ _
 <img src="https://img.shields.io/badge/blaves.com-1A1410?style=flat-square&logo=firefoxbrowser&logoColor=D4A017" height="34" alt="blaves.com" />
 </a>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=blavese&show_icons=true&hide_title=true&hide_border=true&bg_color=1A1410&title_color=D4A017&icon_color=D4A017&text_color=E8DCC4" alt="stats" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4A017&section=header" width="100%" alt="divider" />
